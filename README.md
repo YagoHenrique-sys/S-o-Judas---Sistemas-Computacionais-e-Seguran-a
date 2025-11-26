@@ -1,2 +1,2 @@
-# Sao Judas--Sistemas-Computacionais-e-Seguran-a
+# Sao Judas--Sistemas-Computacionais-e-Segurança
 São Judas - mooca
